@@ -12,15 +12,15 @@ Your team can revise/add more sections._
 
 # Team members
 
-1. Member 1, email
+1. Surya Deip Reddy Kesaram, kesarams1@udayton.edu
 2. Member 2, email
 3. Member 3, email
 
 # Project Management Information
 
-Source code repository (private access): <https://github.com/***>
+Source code repository (private access): https://github.com/waph-ud-sm25-team18/waph-teamproject
 
-Project homepage (public): <https://***.github.io>
+Project homepage (public): https://github.com/waph-ud-sm25-team18/waph-ud-sm25-team18.github.io
 
 ## Revision History
 
