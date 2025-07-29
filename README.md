@@ -1,8 +1,3 @@
-# README.md Template
-
-*NOTE*: _This is just a template for your team to start working on teamwork collaboration. It is a minimum requirement for your project's final report and can be updated later.
-Your team can revise/add more sections._
-
 ## WAPH-Web Application Programming and Hacking
 
 ### Instructor: Dr. Phu Phung
@@ -13,20 +8,20 @@ Your team can revise/add more sections._
 # Team members
 
 1. Surya Deip Reddy Kesaram, kesarams1@udayton.edu
-2. Member 2, email
-3. Member 3, email
+2. Sai Sandeep Vunnam, vunnams3@udayton.edu
+3. Rakesh Reddy Yeduru, yedurur1@udayton.edu
 
 # Project Management Information
 
-Source code repository (private access): https://github.com/waph-ud-sm25-team18/waph-teamproject
+Source code repository [private access](https://github.com/waph-ud-sm25-team18/waph-teamproject)
 
-Project homepage (public): https://github.com/waph-ud-sm25-team18/waph-ud-sm25-team18.github.io
+Project homepage [public](https://github.com/waph-ud-sm25-team18/waph-ud-sm25-team18.github.io)
 
 ## Revision History
 
 | Date       |   Version     |  Description |
 |------------|:-------------:|-------------:|
-| DD/MM/YYYY |  0.0          | Init draft   |
+| 29/02/2025 |  0.0          | Init draft   |
 
 
 # Overview
